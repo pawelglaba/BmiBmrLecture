@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI &amp; BMR Lecture</string>
+    <string name="measurements_title">Your measurements</string>
+    <string name="form_intro">Enter adult measurements to calculate BMI and estimated resting energy.</string>
+    <string name="weight_label">Weight (kg)</string>
+    <string name="height_label">Height (cm)</string>
+    <string name="age_label">Age (years)</string>
+    <string name="weight_hint">e.g. 70.5</string>
+    <string name="height_hint">e.g. 175</string>
+    <string name="age_hint">20–120</string>
+    <string name="variant_label">Equation variant</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="error_weight">Enter a valid weight greater than 0 kg.</string>
+    <string name="error_height">Enter a valid height greater than 0 cm.</string>
+    <string name="error_age">Enter a whole age from 20 to 120 years.</string>
+    <string name="error_sex">Choose the female or male equation.</string>
+    <string name="error_extras">Missing or invalid data. Check the form and try again.</string>
+    <string name="error_calculation">Check the size and units of your measurements.</string>
+
+    <string name="result_title">Your results</string>
+    <string name="measurements_format">%1$s kg · %2$s cm · %3$d years · %4$s equation</string>
+    <string name="bmi_label">Body mass index (BMI)</string>
+    <string name="bmi_value">%1$.1f kg/m²</string>
+    <string name="category_underweight">Underweight</string>
+    <string name="category_healthy">Healthy weight</string>
+    <string name="category_overweight">Overweight</string>
+    <string name="category_obesity">Obesity</string>
+    <string name="scale_title">Adult BMI ranges</string>
+    <string name="range_underweight">Below 18.5 · Underweight</string>
+    <string name="range_healthy">18.5 to below 25 · Healthy weight</string>
+    <string name="range_overweight">25 to below 30 · Overweight</string>
+    <string name="range_obesity">30 or above · Obesity</string>
+    <string name="selected_range">✓ %1$s</string>
+    <string name="selected_range_spoken">Your range. %1$s</string>
+    <string name="energy_label">Estimated resting energy</string>
+    <string name="energy_value">%1$.0f kcal/day</string>
+    <string name="education_note">Educational estimates. BMI is a screening measure; resting energy is not a daily calorie recommendation.</string>
+    <string name="back">Back to measurements</string>
+    <string name="edit">Edit measurements</string>
+    <string name="recalculate">Recalculate</string>
+    <string name="save">Save and return</string>
+    <string name="cancel">Cancel</string>
+    <string name="activity_label">Daily activity level</string>
+    <string name="level_format">%1$d/10 · factor %2$.2f</string>
+    <string name="activity_hint">0 = mostly seated · 10 = sustained physical work</string>
+    <string name="daily_label">Estimated total daily energy expenditure (TDEE)</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="paper">#FAF7F4</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="ink">#2B2025</color>
+    <color name="secondary">#62535A</color>
+    <color name="burgundy">#771B3B</color>
+    <color name="on_burgundy">#FFFFFF</color>
+    <color name="pale_rose">#F5E6EB</color>
+    <color name="line">#D9C8CE</color>
+</resources>
